@@ -1,4 +1,4 @@
-# Api Rest de autenticacao de usuarios
+# Api Rest de autenticação de usuários
 
 <div style='display: inline-block'>
   <img aling='center' alt= 'NODE JS' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'/>
