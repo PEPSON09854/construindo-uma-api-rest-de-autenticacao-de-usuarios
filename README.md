@@ -10,7 +10,7 @@
 
 Nesse repositório contém o código de uma aplicação backend em node.js e express.
 Uma API REST de autenticação de usuários em um sistema, utizando uma arquitetura de projeto MVC, fiz a integração com o banco mongodb atlas
-e criei um modelo de usuário para uma colection no banco utilizando mongoose, criei funções no controller para cadastro, login, verificação, 
+e criei um modelo de usuário para uma collection no banco utilizando mongoose, criei funções no controller para cadastro, login, verificação, 
 atualização e resgate de usuário pelo id, juntamente com condicionais de verificações com mensagen de sucesso e erros do campo de formulário, 
 nas funções de middlewares criei um token de validação utilizando o pacote jwt, também utilizei o pacate bcript para criar uma senha criptografada, 
 utilizei o software Insomnia para fazer os teste de rotas e a API está funcionando perfeitamente e pronta para mais implementaçãoes ou uma integração 
